@@ -96,6 +96,11 @@ body {
     color: #FFFFFF;
 }
 
+.order-button:hover,
+.order-button:focus {
+    background-color: #404BBF;
+}
+
 
 /* ===============/Hero-styles=============================== */
 /* ===============Features-styles=============================== */
