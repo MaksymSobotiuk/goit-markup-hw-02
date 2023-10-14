@@ -187,7 +187,11 @@ body {
     background-color: #2e2f42;
 }
 
-.cocopyright-text {
+.logotype-footer-span {
+    color: #f4f4fd;
+}
+
+.footer-text {
     font-size: 16px;
     line-height: 1.5;
     color: #F4F4FD;
