@@ -74,8 +74,7 @@ body {
 /* ===============/Header-styles====================== */
 /* ===============Hero-styles=============================== */
 .hero-section {
-    flex-shrink: 0;
-    background: #2E2F42;
+    background-color: #2E2F42;
 }
 
 .hero-title {
