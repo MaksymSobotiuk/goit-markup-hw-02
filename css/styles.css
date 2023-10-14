@@ -17,6 +17,7 @@ body {
         sans-serif;
     color: #434455;
     letter-spacing: 0.02em;
+    background: #FFFFFF;
 }
 
 /* =========/Common styles=========== */
@@ -26,7 +27,7 @@ body {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
@@ -54,6 +55,9 @@ body {
 }
 
 /* adress */
+.page-adress {
+    font-style: normal;
+}
 
 .adress-link {
     font-size: 16px;
@@ -85,12 +89,6 @@ body {
 }
 
 .order-button {
-    display: inline-flex;
-    padding: 16px 32px;
-    align-items: flex-start;
-    gap: 10px;
-    border-radius: 4px;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     background-color: #4D5AE5;
 }
 
