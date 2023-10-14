@@ -163,6 +163,7 @@ body {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
 }
@@ -182,6 +183,10 @@ body {
 
 /* ===============/Portfolio-styles=============================== */
 /* ===============Footer-styles=============================== */
+.page-footer {
+    background-color: #2e2f42;
+}
+
 .cocopyright-text {
     font-size: 16px;
     line-height: 1.5;
