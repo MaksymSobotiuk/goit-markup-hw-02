@@ -17,7 +17,7 @@ body {
         sans-serif;
     color: #434455;
     letter-spacing: 0.02em;
-    background: #FFFFFF;
+    background-color: #FFFFFF;
 }
 
 /* =========/Common styles=========== */
@@ -74,8 +74,6 @@ body {
 /* ===============/Header-styles====================== */
 /* ===============Hero-styles=============================== */
 .hero-section {
-    width: 1440px;
-    height: 600px;
     flex-shrink: 0;
     background: #2E2F42;
 }
